@@ -1,4 +1,4 @@
-=# ⛽ Etanol x Gasolina (Região Sudeste)
+ ⛽ Etanol x Gasolina (Região Sudeste)
 
 Sabe aquela dúvida na hora de abastecer, **etanol ou gasolina**? Neste projeto eu fui atrás da resposta com dados de verdade.
 
